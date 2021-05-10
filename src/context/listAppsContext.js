@@ -21,7 +21,7 @@ const ListAppsContextProvider = (props) => {
             dateCreated: new Date().toLocaleDateString(),
             createdBy: {
                 id: 1,
-                firstName: "Magico",
+                firstName: "John",
                 lastName: "Doe"
             },
             url: "Dash.my.sweetcloud.se"

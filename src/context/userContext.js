@@ -14,7 +14,7 @@ const UserContextProvider = (props) => {
 
     const [user, setUser] = useState({
         id: 1,
-        firstName: "Magico",
+        firstName: "John",
         lastName: "Doe"
     });
 
